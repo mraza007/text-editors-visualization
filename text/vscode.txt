@@ -1,0 +1,284 @@
+Quick and easy
+Trial and error. I have given most of them a try. It’s my current favorite. 
+Used at work
+This is a full IDE
+Typescript support/tooling, general ease of use, trust in open source MS projects
+Plugins
+More intuitive version of vim 
+Great extensions and easy setup
+After using multiple text editors it's interface and the ease of putting in addons have proven it to be the best for my uses.
+My boss hates paying for things
+a
+It has pretty themes, it's free, and has git compatibility
+Internship required it for a project and I've used it since
+Simple but full of features 
+Easy to use and has lots of useful extensions for all languages.
+Really helpful to have everything in one place and easy to use
+Plugins, Git integration, open source and looks beautiful
+Many extensions and I’ve been using it for years 
+Atom is too slow. Notepad++ is too basic. Vim is old and I can’t be bothered trying to learn how to use it. Sublime Text you have to pay for or you keep getting pop ups. Nothing special about VS Code but it doesn’t have any negatives so I use it all the time now.
+It has a simple interface and includes many extentions in the marketplace.
+looks sexy
+It was better than Atom
+Easy to customize and integrated terminal
+It's a compact IDE
+I like the layout
+Add ons support virtually any language, visually pleasing, regularly updated
+It gets out of my way
+It's sleek, it's fast, the plug-in library is huge
+Virtual Studio regular was too unwieldy
+Lightweight, supports multiple languages, easy to use
+.NET
+Good
+Out of the options listed that I’ve tried I enjoy it the most
+It’s what I learned on
+Work has it
+I like the theme editor and it was just the one I was taught with
+runs well on my ancient pc and allows me to use the mouse
+Atom was a great, easy to extend editor, but it was much slower.
+I just like it and all of the plug-ins are in one place
+Ease of use, extensions
+Already familiar with vs, and it's free
+Continuity with peers
+switched from sublime, wesbos used it/devs at my company used it.
+Recommended by a friend when I was just starting out. Didn't look back since it basically did everything I needed. 
+Friend recommended it
+Lots of extensions and it works really well on all my devices 
+Cuz its foss, fast and has every feature I'd need. 
+Ease of use, extensions, git, compatibility 
+Sublime is trash, vim is cool but work uses Vscode. 
+Recommended on reddit
+It's visually appealing and it's fast.
+Pretty good altogether. I don't actually know why because I just code.
+Mostly because it's liteweight.
+Good Community backed by Microsoft 
+Super quick to download, very lightweight and fast, extremely intuitive plugin support and user interface, doesn't force me to learn esoteric keyboard controls (I love vim anyway though) but it still has the capability for them, very actively developed, incredible features right out of the box. I use it for work as a full-stack developer and everything just works so fluidly: C# .NET Core, NuGet, and NUnit on the backend, Angular and Typescript and html and sass and so on on the frontend, all seamlessly in the same easily configurable and navigable software. Really incredible.
+Lightweight opens faster than atom, clean UI, powerful than most basic editors.
+I heard about it on a podcast as a new and really great editor. The podcast runner commented that the developers of VS Code were really responsive, and I like that.
+Just the best
+Quite light compared to Atom and customizable
+Professor used it in class so I followed 
+Best for Mac
+Because it’s the best 
+Nice extensions and layout
+Clean look and it's faster than Atom. Also GitHub integration.
+It’s fast and not too complicated
+Originally it was because it had the right balance of speed (like sublime) and customizability (like atom). These days I feel like atom has gotten faster but I'm happily in the vscode family and nothing makes me feel like I should switch
+I tried it when it was first released, and found it easier to use than sublime
+Clean and concise
+Works for all languages
+Integrated terminal
+Because I was used to VS from school 
+Open source
+Easy to use
+Best extensibility, look, plugins, keymaps, and overall usability. And speed!
+8===D
+compatibility and ease of use 
+Best overall extensions and performance 
+Recommended and then grew into it
+Handles all the editing I need
+Easily the best.
+Good UI, great addons, and I like that it looks good and well-integrated on a Windows PC.
+In Soviet Russia, editor chooses you.
+The ability to customize it be more like an IDE or a text editor is amazing. The amount of extensions allow it to be custom to what I want. 
+Extensions, visual studio user already for c#
+What I always had
+Very convenient for what I do, light-weight but still feature heavy, updated frequently
+ease of use, custom settings, themes!
+Fag
+Different plug ins for different syntaxes and it’s a lot cleaner than the other solutions IMO
+It does everything
+Emacs too hard for me and VSCode has great plugins
+nice plugins, available on all Operating systems I use
+Easy and customizable
+I like vs
+Decent plugins, works very well with git, 2x2 grid perfect for large resolution monitors. 
+Cool
+Plugin options, lightweight, customization options
+Because?
+Lightning fast, but with lots of features
+Used to use atom but VS code performed a little better.
+Because i like it 
+I use Visual Studio
+light, customisable, friendly user interphase and straight foward
+Cmd
+Free, modern, fast extensions
+Integrated Git and Debugger
+I started using it at my internship recently and have been finding it really good
+It’s pretty
+File management and merge conflict handling
+Quickest to get setup so that it can do much more than just text editing! 
+Great support. Easily modifiable. Currently the best editor there is.
+Many features and 3rd party addons while not overly performance hungry
+Dark theme is best
+Extensions, support, performance, vim binding compatibility
+I accidentally broke Sublime and figured why not give it a shot. I like the terminal
+Came recommended with a starter tutorial and I’ve used it since. 
+Open source and has a decent support for various development stacks.
+Not sure
+I used to develop on windows so this was the best cost free alternative. I later moved to linux but took the editor with me
+Simple to use, built in terminal and other features that would need extension on many other editors. 
+It’s free and highly supported
+Does js and python and git and....
+Great customization possibilities and multi-file search
+I like it the most
+Snappy
+Ny teacher recommended it
+Plugins and speed on slow laptops
+A lot of integrated features, multiplatform, free, good looking
+It's fast, has intellisense and autocompletion, unlike Notepad++.  Notepad++ is quite fast for such a powerful text editor, but if Notepad++ also had intellisense and good autocomplete, I would have chosen that. I use Notepad++ all the time to open small files if it isn't in the current workspace, because it's so fast to start up. 
+All around good support for js 
+Plugins!
+Extensions+close to IDE+Easy to use
+Like the UI and able to download extensions. 
+Fast and built in terminal
+It simply has the best design and extensions.
+extensions
+Because It has a minimal interface, a lot of plugins, it work almost with all language, it's free, work's with git 
+Quick install, it's fast and great plugin support + js debugging
+Because it's the best. 
+Plugins
+It has a vim plugin so I get the best of both worlds
+Easy to set up, highly customizable, ever-growing market with extensions, regular updates, and on top of it it's rather fast.
+I like it
+It has everything I need at one place
+Fast, very customizable, cross platform, lots of plugins, can basically make for a very lightweight IDE
+The library for extensions is wonderful, and it has been the most reliable editor I've used. The git support is very useful as well. Using the integrated terminal also makes my life alot easier.
+Versatility and extensions 
+Performance is ok, but very configurable and lots of plugins
+Work
+Extensions
+I use Visual Studio for my backend work, so VSCode is a natural choice when doong frontend stuff.
+Abundance of features and easy on the eyes
+Powerful and intuitive
+Plugins, lightweight, fast
+lololol
+Because it's next best, next to Webstorm
+Lightweight, pretty looking, great compatibility
+Best editor
+Cuz
+Fast 
+It's lightweight and fully extensible.
+For writing code in particular, I like its style and its features like the add-ons and IntelliSense
+Lightweight
+At first I had to use it because my tutor uses it but I really like it.
+Many easy to install plugins and cool look
+I have heard good things about it
+I'm a Salesforce developer, and VS Code has officially supported tools.
+because of its integrity and support for languages, syntax checking, much more
+It looks nice, plenty customizable 
+G
+My university teaches using vs code so I’m used to it
+Last year
+good
+Internship made us use it
+Works great, Smooth and best for my language
+Modern, easy to use, frequent updates and lots of extensions 
+Because it good
+extentions, features and overall pleasant to work on it 
+.
+ease of use
+The layout and speed really work for me. Also constantly updating.
+Lightweight yet capable of expansion through extensions 
+Pretty
+cause i use c#
+Free, advanced, huge community
+Functionality while being minimal. Has the right plugins and everything for making coding in any language a pleasure!
+I love the UI
+I don’t know any of theze
+It's as close as you can get to Visual Studio.
+Fast, easy to install packages
+Versatile, reliable, ubiquitous
+Good features 
+Integration with the langagues, and platforms, I develop on
+I enjoy using it
+Looks nice, I like the yermin. Extensios are a plus too.
+Aesthetically pleasing and many add-ons
+I needed something very basic, because I have a really bad laptop. Vs code does everything I need so I did not look further, this was the first one i tried, it did not disappoint me.
+It's good, but I want to learn emacs or vim
+I unironically eat up Microsoft's products like no tomorrow, long time supporter of all that they do and VSCode is no different, especially with the moral direction the company's been taking in their products lately.
+Customisation and Functionality
+Cuz
+More of an IDE and super customisable!
+Its light 
+Recommended by my wife, who is a data scientist (I'm not a professional developer at the moment, but I'm looking to switch careers soon). Used Atom  before, which was fine too, but like VS better.
+Supports everything I use, easy to use, not too hard on the computer, and help/support is easy to find.
+Lightweight
+Pleasant style, autodetects errors, has it's own console, works with Node and Pip, can make a "workstation" that keeps all the files I'm working on in the same place.
+The colour scheme works for me, and the file system is intuitive for me too
+I think because it's just good enough ?....
+Less memory consumption and fast to write code
+better than the rest
+Niceu
+I have mostly used VS code and find it fits my needs
+Extensions and works for everything
+My school uses it
+Fast and customizable
+Better support for Plugins, easy navigation of linked function and libraries.
+Was suggested in a course and i Stick with it 
+simple free 
+it looks nice
+Because it was the first one I used that wasn’t Notepad++, so I stuck with it.
+It works like it thinks on its own, know what coding mistakes i am going to make
+Because it's the best one
+The latest greatest bestest one used by others
+Lightweight, nice interface, good customization
+It's the one I'm used to.
+Its pretty
+It auto installs all sdks and necessary software.
+I like MS products and it was an easy transition from Visual Studio
+i can adjust it as i please
+Great debugging, very flexible with add on’s, and good keyboard shortcuts making it almost as efficient as emacs.
+cuss
+Easy to use extensions
+reddit recommendation
+Because Visual Studio wasn't an answer 
+It does everything without being obnoxious to use/learn.
+cuz
+Open source, fast, "lightweight", great community
+Extremely customizable and has a ton of extensions
+Good
+I previously used Vim, but I found VS Code to be easier to customize for new languages
+Simple, fast and integrations to other tools.
+I've got my settings and extensions set up so perfectly for my purposes that I'm terrified of starting over. 
+Easy and ever so functional
+lightweight and useful
+Fast and minimal
+Easy to use
+Because it's my favourite 
+plugins
+Same features as other editors, more plugins, liveshare.
+Customizability, large userbase and abundance of extensions for different languages and technologies
+What I use
+Cross platform, updated regularly, light weight, well designed. 
+It’s an IDE good for many languages. And I just got used to it...
+Easy to use, good documentation, constant support.
+Because i like the Microsoft ecosystem
+It's clean and simple while having all features I need
+Don't remember
+good
+Its easy and has many features
+I work with Visual Studio every day so it makes the most sense to me.
+Nice design, many packages and easy to use
+Plugins everywhere!!!!
+Features
+Im lazy
+Simplicity, beauty and functionality.
+Easy to use, lightweight, does a bunch for you. 
+Only good one 
+Standard and continuous improvements
+because its my favorite?
+Helpful
+I like the syntax coloring, the program's easy on the eyes, there's many plugins, add-ons, such and such to fit anyone's needs. I also really prefer its overlay over eclipse's. I also REALLY love how when you open a bracket, it closes it automatically. I know eclipse does this too (and perhaps some others) but I really like vs's overlay.
+Wide range of extensions
+Extensions and theme
+low setup time
+It's simple and runs smoothly
+ease of use
+Plugin support and updates
+I can integrate many extensions
+Sleek
+No clue
+Because I like it more than the others
+Has a wide range of easily installable plugins that allows it to work well with most languages.
+out of the box features are nice

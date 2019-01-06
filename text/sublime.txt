@@ -1,0 +1,145 @@
+It’s easy to use and it’s simple
+It is fast to use and you can download plug ins to make programming easier.
+Easy to use and setup, many extensions available 
+It was the second editor I used after using emacs and I preferred it to the others I tried in the future. Second favorite is VIM if I need to use CLI. 
+Because it was the first one I chose, and I liked it.
+Simple 
+First editor I learned about
+I use it
+Didn't wanna use vim
+I like the look :)
+First one i used and it does everything i need, so i don’t have a reason to switch.
+I've been using it for years.
+Because I saw it on YouTube(s) and knew I needed something better than the default one that comes with python.
+Dark theme rules :)
+Lightweight, simple, clutter free and good dev support
+Packages.
+I like it the best
+Most recommended on iOS. 
+Initially I used atom, it was kinda slow and took a lot of time to launch, even after launch it had troubles with multiple files open. Sublime came in as a nice alternative, it launches fast, can handle long files easily, not to mention it's smaller than others
+Easy. Free
+I've been using it for years, it's nice and does the job with no frills.
+Easy to read and organize
+Lots of packages, and easy to use on windows
+Its easy and pleasing to the eye
+Execution speed, plugin ecosystem, out-of-the-box features
+I like the color scheme and it was the text editor recommended to me by my first tutorial
+Because I haven’t used any others. I’m new to this stuff. 
+Cause
+Packages that save me time
+Packages that save me time
+It’s just what I learned to code on
+Easy to use, small to install,  nicely color coded, usable for all languages
+I’ve been using it for years and have tried many of the others but have been able to get as comfortable with them as I am with Sublime
+Recommended by a friend ~5 years ago. Was using notepad++ untill then.
+It's what I used while in school. Now when I try others I get frustrated re-learning everything and always switch back.
+Efficiency, really fast and look
+I like it
+It's the one text editor from the list that I've worked with most.
+That’s what I use..
+UI
+First programming editor is started with. Saw YouTube tutorials for advanced stuff and stuck with it
+Extensive packages, very lightweight and minimalist in design.
+Basic text editor with multiple languages support
+Community plugins and not rough on memory like Atom
+easy to use, good support for web development
+Fast and can open very large files with ease. 
+Its easy to use! :D
+The color schemes.
+Friend's recommendation
+fast, crossplatform and customizable
+Bases on peoples recommandation
+Used to it
+Its easy to use, lightweight  and works on a Mac 
+Simplicity and speed.
+Uhhhhh
+Ultra responsive and lightweight.  I can run many instances at once and it starts up in less than 5 seconds. 
+Its a lightweight cross platform ide with a lot of packages and themes. Also has nice programming language support.
+Fast and native
+Low RAM usage, pretty colors 
+Vim was too hard
+Cross platform and design
+Same text editor the my instructor is using
+Customization and keyboard shortcuts
+Nice colors, supports different languages, easy to use. It's just more than notepad but just less than a full ide. It's perfect for editing text files or whoops a little cpp bug I need to fix real quick without launching whole shebang. 
+Idk
+I don't want to use a sluggish electron based software for editing, and I don't want to commit to the learning curve of vim. Sublime hits that sweet spot in the middle where I am very productive and it stays out of my way. 
+Fuck 
+I was told to by the internet. And if it means anything, I primarily coded in Python at the time.
+Fuck 
+It was recommended by my course instructor
+Launchable thru Steam, nice color palette, recommended by friend.
+I like the overhead view on the right that it has.
+S P E E D
+Ease of use
+Because it was recommended years ago
+every developer i know uses it and you can use it for free
+Power user text editor while staying out of the way. 
+Clean UI, free, easy to modify, lots of language options (and can add custom ones)
+When I use a text editor I want it to be cross platform and free which sublime is
+If I'm editing <10k rows of text sublime is the prettiest. Anything more and I will use 010 Editor.
+It was my first editor outside an IDE and I have never had any issue with it or reason to change.
+Because all the cool kids are doing it
+My favorite appearance-wise
+I’m most familiar with it and I’ve used it the most 
+Love the theme, love the small ram usage, love plugins. Thre lack of userinput while running the program is disappointing, though
+Modern features while still being fast. 
+Easy to use and effective. Installation also makes you learn about Python itself
+I don't know
+best text editor imo
+Great interface and packages
+It was the first one that I was shown and I guess I got more acustommed to it's dynamics rather than the ones from other text editors.
+Colors
+It looks nice and does what I want it to do
+Simple, fast, light-weight. No bullshit.
+Simple to use, tons of syntax already built in. It's also fun to decline to purchase lol
+First one I was introduced to
+Black screen
+4
+Simple 
+It was mentioned in a python tutorial and I stuck with it ever since
+Super fast and has a decent amount of add-ons
+Because I never heard of the others except notepad ++
+Colour scheme is nice, has nice basic features 
+Recommended and fast
+One used for an online tutorial. Simply never changed as i have never had any issues 
+Smaller size and does it all
+I've been using it forever
+God Damn RNG.
+Good UI and easy to install plugins
+One of the first ones with the high level view on the right as you scroll
+It's fluid and I love it. 
+Nice looking
+N
+Was an improvement over notepad++
+Looks nice
+features
+It looks nice and works perfectly with my c++  code
+ .
+Fast, simple to use
+Simple, custimizable and default dark theme. 
+It's not rational, I just like how it feels to code in it
+Clean, fast
+Requires essentially no setup,  still has reasonable features
+It does everything I need, runs on multiple platforms and doesn't have insane controls like most of the list
+Nice UI, lightweight enough to open near instantly, easy to use 
+Being a beginner, it's one of the most intuitive and easy to use editors. 
+Great design and UI.
+It's the one I was shown first
+?? because it best
+The simplicity of it and the visual design is simple yet pleasing to the eyes.
+It’s the first one I’ve tried, It’s simple and lightweight, I didn’t bother to try the others
+I just always use it
+Lightweight 
+It looks nice and is easy to use
+Features
+It’s speed and visual appeal primarily 
+T
+Easy
+Two words: Multi cursors
+Many useful features. Customisable.
+Speed.
+No better alternative
+Love the band
+K
+it good

@@ -1,0 +1,46 @@
+All in one editor, plugins, nice ui, easy to use
+ChromeOS
+It has great built in features for dependencies, git, and it's attractive. 
+Just cuz
+Simple and easy to use.
+It was recommended by a friend. Only other editor I tried was Geany.
+Powerful yet easy to use
+It’s very good
+its good for java
+It comes with matlab
+Easy to use, free professional upgrade for students
+I used Eclipse, but people told me to get IntelliJ so I did. Awesome kotlin support+great debugger
+I work on PHP and Jetbrains offers that for PHP. It has one of the best search, great integrations for Database, Terminal and Version Control with Docker and Vagrant. Great Debugging Experience. Literally that's all that I need running to have running for building any app from start to finish. 
+This editor does auto corrections and creates a folder inside a file with everything related to the program (classes, text files, html)
+Nice shortcuts and integration for web dev code 
+It's a fully integrated IDE with tons of features to make development easier
+Array of tools available for debugging etc.
+Easy to use, good looking and is very neat.
+Idk
+Really good refactor, checking and generators. 
+Good for C/C++/Obj-C/Swift in Xcode, good for WedDev/Python for Brackets
+A PhD student in my lab recommended it.
+Pretty good IDE
+because, R.
+the synergy between us
+Looks, plugins, usability etc.
+It's my favorite. On windows I use Notepad++
+It has a lot of cool features plus its free for students
+It looks nice 
+Live preview built in
+Mostly write Python and it has a lot of built-in tools
+Well i mainly code in java
+Because I am able to create live server(basically when I run my code on localhost and every time I save it automatically resets web page)
+Great for javascript and Angluar
+It fullfills all my desires.
+Because I know how to fucking exit it
+It has lots of handy features and integrates well with KDE.
+Good
+Live viewing, know it best
+easy to use and available on most unix systems.
+it's in every linux distribution and it always works
+It’s the one my professor makes us use
+Used to it.
+easy to use
+im doing with pycharm since I have started with programming
+I like the customization options. I am also quite fond of adobe software, so i gravitated to  brackets since adobe makes it.

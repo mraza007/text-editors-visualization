@@ -1,0 +1,86 @@
+Originally for remote editing.  Pretty much began using it for all editing after grokking the power of modal editing.
+Flexibility, low memory usage, ergonomics
+because it chose me
+It’s nice to use
+Makes me look sophisticated 
+Always available. Rarely need to leave home row 
+the first one i tried
+Began using vim in terminal for school. Just stuck with it. Though I sometimes use sublime, and am looking into vs code
+Was using atom, but as I learned more I started using the command line more and more, so it made since to move to him. Plus, atom was slow 
+Modal editing
+It’s simple
+Vim is powerful and runs on everything. Once I learned the basics I never looked back. 
+Because I use it every day...?
+i hated electron and loved the plugins and the no mouse allowed part
+Because geeks use it!
+I use arch BTW
+Speed 
+Because it's pretty standard. It works well in most evivronments. 
+Ease of mobility
+Autism
+Its everywhere
+Long term use in any environment 
+Simplicity
+Oldschool
+I saw other people using it and thought it looked cool.
+Learned it a while ago like using it 
+Cause
+It's simple, powerful, and runs easily on any machine, headless or not.
+a
+Very versatile. 
+Because it makes code fly fast from my fingers 
+Extremely lightweight and powerful
+Installed on every Linux machine by default. Easy to customize. Lightweight
+vim keybindings and plugins
+Source code on server
+Lightweight
+it's universally available, works on command line, and the shortcuts are amazinf
+Lightweight, keyboard shortcuts foreverything  and extremely customizable
+Most versatile. Can be plugin in other editors.
+Efficiency 
+Vim is the most streamlined, convenient, and fastest editor
+I work in bioinformatics, and everything is done via the command line, so it is much easier to use a built-in editor than an external one. Vim was the one I was taught in my CS undergrad classes, and it's the one I use at work now. I've tried nano, but I'm so used to vim that it's hard to switch. My favourite external text editor though, is Sublime Text.
+First I used, love the more GUI based like VS Code and Atom but vim holds a special place in my heart.
+It was recommended to me by a close friend. It's lightweight, cli friendly, massively extensible, and vi is on almost all Linux/UNIX systems.
+Because it's amazing
+Memes
+Useful and available everywhere
+Most editing of text files is through a CLI if not an IDE. 
+dank
+Faster, confortable, customizable, usable within a terminal
+Fast, works in a terminal, awesome to use, has plugins
+Just
+Customisability and easy to use
+It's very personalizable
+Efficency
+Efficency
+I wanted to learn something "cool" when I started and now every other editor feels slow to me 
+I love fast navigation with the keyboard shortcuts cuts
+Because I am a pompous bastard who likes to dab on plebs. Seriously tho, it's fast and intuitive.
+Available everywhere, like the mode based editing
+Speed and customisation.
+It’s extremely powerful and fun to learn. Highest skill cap and it’s on every computer.
+I use it everyday and have been for a number of years.
+Best
+Universal
+Vim modes mean fewer chorded shortcuts which help my RSI.
+-
+Ease of use and prebuild in. 
+I enjoy its unique UI and it is fun to use. 
+It's the most natural to me and I know the most about it 
+I like it
+Fast to launch and can read largr file size 
+Keybindings
+Its available on every system and has vim bindings 
+It's superior. 
+Because it's powerful and isn't in the way ever
+Universality, Portability, 
+I like them keybindings yo
+I’m old
+Everything can be done without moving hands from keyboard
+productivity
+Im still learning all of the tricks, but it’s the most powerful command-line text editor I’m aware of.
+Once you get past the steep learning curve, it becomes amazingly easy to use and efficient.  Plus, it has a rich ecosystem of plugins to enhance it and is nearly universally available on Linux distributions.
+portability
+Good to use, available everywhere
+It's small, lighweight and configurable
