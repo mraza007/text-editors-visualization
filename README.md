@@ -15,7 +15,7 @@ A simple side project that uses data visualization libraries to visualize the da
 ## PieChart
 ![Data](newplot.png)
 
-**Note**: In order to view interactive piechart open using `visualization.html` file.
+**Note**: Open `visualization.html` file to view interactive piechart
 
 ## WordCloud
 Since there were so many comments so I decided to create a wordcloud from those comments.
