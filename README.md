@@ -12,7 +12,10 @@ A simple side project that uses data visualization libraries to visualize the da
 - `jupter-notebook <name of the notebook>`
 - You can view the `.html` file too.
 
-## Word Clouds
+## PieChart
+![Data](newplot.png)
+
+## WordCloud
 Since there were so many comments so I decided to create a wordcloud from those comments.
 
 ##### Atom
