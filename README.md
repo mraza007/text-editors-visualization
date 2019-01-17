@@ -37,5 +37,4 @@ Since there were so many comments so I decided to create a wordcloud from those 
 
 **Note** : Other contains text editors like `php-storm`,`eclipse`,`pycharm` and etc.
 
-# Lastly I would like to thank LearnProgramming SubReddit Community
 Feel free create PR if you have any creative idea on how to use this data.
